@@ -1,0 +1,37 @@
+body{
+    margin: 30px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.colrs{
+    background-color: aqua;
+}
+.colrs1{
+    background-color: yellow;
+}
+.colrs2{
+    background-color: greenyellow;
+}
+.colrs3{
+    background-color: blue;
+}
+.colrs4{
+    background-color: blueviolet;
+}
+.h3tf{
+    margin: 0;
+    padding: 0;
+}
+.alignm{
+    margin: 0;
+    padding: 0;
+}
+.imgf{
+    position: relative;
+    width: 15vw;
+}
